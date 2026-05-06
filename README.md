@@ -1,7 +1,7 @@
 <img width="1440" height="810" alt="guidy-sign-new" src="https://github.com/user-attachments/assets/09b0e908-4acc-4305-9cd0-1bc5ba3defdf" />
 
 # Guidy
-Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrillic langugaes.
+Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrillic languages.
 
 ### Typeface includes:
 
