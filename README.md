@@ -6,7 +6,7 @@ Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrilli
 ### Typeface includes:
 
 • 799 Glyphs \
-• 40 Wayfidnig pictograms \
+• 40 Wayfindnig pictograms \
 • Support for 400+ languages \
 • 20 OT features \
 • Pictograms search feature embedded inside fontfile
@@ -14,7 +14,7 @@ Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrilli
 Guidy is a geometric sans serif with humanistic roots.\
 It draws inspiration from such typefaces as: Avenir, Frutiger, Geometria, Gill Sans, Wayfinding Sans 
 
-More info on [collectivetype.works](https//:collectivetype.works)
+More info on [collectivetype.works](https://collectivetype.works)
 
 # License
 • Guidy is licensed under the [SIL Open Font License v1.1](https://openfontlicense.org) \
